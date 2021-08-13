@@ -17,6 +17,8 @@ public class FileSliptter {
 
         int val=15;
 
+        int val2=20;
+
         int linesWritten=0;
         int count=0;
         while (line != null) {
