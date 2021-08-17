@@ -18,6 +18,8 @@ public class FileSliptter {
        // this is for webhoot testing
         int val = 85;
 
+        int test2 =47;
+
         int linesWritten=0;
         int count=0;
         while (line != null) {
