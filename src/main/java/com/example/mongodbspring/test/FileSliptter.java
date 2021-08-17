@@ -15,9 +15,8 @@ public class FileSliptter {
         String fileName = inputFile.getName();
         String outfileName = "C:\\d drive\\springboot-mongodb\\mongodbspring\\src\\main\\java\\com\\example\\mongodbspring\\test" + "\\" + fileName;
 
-        int val=15;
-
-        int val2=20;
+       // this is for webhoot testing
+        int val = 85;
 
         int linesWritten=0;
         int count=0;
