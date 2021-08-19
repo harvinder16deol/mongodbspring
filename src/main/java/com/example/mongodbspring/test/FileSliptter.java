@@ -20,6 +20,7 @@ public class FileSliptter {
 
        int test2=77272724;
        int nextchange = 55;
+       int vall=45;
 
         int linesWritten=0;
         int count=0;
